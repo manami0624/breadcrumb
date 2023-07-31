@@ -1,24 +1,5 @@
-# README
+# パンくずリストのミニアプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![Image from Gyazo](https://i.gyazo.com/110b05f45be395c6c30ed42b585eff7d.gif)](https://gyazo.com/110b05f45be395c6c30ed42b585eff7d)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+gem "gretel"を使って、ユーザーがどのページにアクセスしているのか一目で分かる **「パンくず機能」** を実装します。
